@@ -78,7 +78,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ---
 
 ## Contact
-For questions or support, feel free to reach out via [GitHub](https://github.com/digitalkoine) or email [your-email@example.com](mailto:your-email@example.com).
+For questions or support, feel free to reach out via [GitHub](https://github.com/digitalkoine) or email [giovannipietrovitali@gmail.com](mailto:your-email@example.com).
 
 Enjoy creating your maps with R! 🌍
 
