@@ -1,4 +1,4 @@
-# <a href="https://digitalkoine.github.io/chr_conference_workshop_paris/"> PizzaMap </a> 🍕🗺️  
+# <a href="https://digitalkoine.github.io/pizzamap/"> PizzaMap </a> 🍕🗺️  
 *Create interactive maps with R*
 
 ## Introduction
